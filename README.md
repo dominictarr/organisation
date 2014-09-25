@@ -9,7 +9,11 @@ organisation
 
 Paris, France
 
-Now that the date is set, I will need to confirm it with squat peoples, definitive venue will be announced internally around the 20 ish Sept.
+The initial venue will not be free for our date, BUT 2 venue are now ok 
+
+- one inside paris, smaller (max 50) but with easy acces
+- one outside tocuhing paris, sill accessible, with loads of room (150 ish person), may be cold if not filled tho
+- one backup plan in a "secured" place is not yet confirmed, but seems ok
 
 # capacity
 
