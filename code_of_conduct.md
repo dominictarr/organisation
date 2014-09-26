@@ -1,4 +1,5 @@
 #SquatConf code of conduct
+following code of conduct is to be agreed by all person attending, staff, speakers, and attendee.
 
 ## tl;dr
 
@@ -21,11 +22,17 @@ This list is not a *laisser passer* to do anything not listed here and for most 
 	- apparence
 	- sexual orientation
 	- religion
+	- disability
 - intimidation (physical or not)
+- harassing photography or recording (do NOT joke about this one in a squat)
 - stalking, following, insistant flirting, etc, etc
+- disrupting talks/workshop
 - joking about people with [silly hats](http://media.tumblr.com/tumblr_lbw3wd1K9Y1qbj9bf.gif)
 
-while the first paragraph is only common sense we count on you to enforce it, for the harassment part please keep in mind that our security may be a bit rougher, particularly if the harassments target the squat inhabitants.
+Participants asked to stop any harassing behaviors are expected to comply immediately.
+
+The first paragraph is only common sense we count on you to enforce it, for the harassment part, report us any issue.  
+Please keep in mind that our security may be a bit rougher, particularly if the harassments target the squat inhabitants.
 
 **other manners reminders**
 
@@ -33,4 +40,4 @@ Respect opinions of the people you talk to, share knowledges with them, enjoy go
 
 ## last note
 
-This document is mandatory when you create a public event, but what I really dream of is that we won't need it one day, and I'm sure this conference will draw the kind of people that does not need to read such a document to act accordingly. 
+This document is mandatory when you create a public event, but what I really dream that we won't need it one day, and I'm sure this conference will draw the kind of people that does not need to read such a document to act accordingly. 
